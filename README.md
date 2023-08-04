@@ -15,7 +15,7 @@ WELCOME TO DENTELO  The Best Dental Service
 
   Dentelo is a fully responsive dental website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://dhiraj7kr.github.io/dentelo/"><strong>➥ Live Demo</strong></a>
+  <a href="https://dhiraj7kr.github.io/Dentelo/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
